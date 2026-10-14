@@ -1,6 +1,16 @@
 # DNS-Based Discovery of Diagnostic Services
 ## AIORI Hackathon 3 — PS-033 | Team Phoenix (TC395)
 
+## Team Introduction Video
+
+**Team:** Team Phoenix  
+**Hackathon:** AIORI Hackathon 3  
+**Problem Statement:** A3-PS033-TC395 — DNS-Based Discovery of Diagnostic Services
+
+**YouTube Video:** https://youtu.be/MDqX_53LTfk
+
+This video introduces our team members, their roles, our understanding of the problem statement, and our proposed solution.
+
 ### 1. Project Overview
 This project demonstrates DNS-based discovery of diagnostic services using DNS TXT metadata, DNSSEC signature validation, and a separate authorization token for protected service invocation.
 
