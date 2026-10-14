@@ -1,0 +1,18 @@
+
+{
+  "latency": {
+    "service": "latency",
+    "url": "http://127.0.0.1:5001/latency",
+    "description": "Simulated network latency diagnostic"
+  },
+  "traceroute": {
+    "service": "traceroute",
+    "url": "http://127.0.0.1:5001/traceroute",
+    "description": "Simulated traceroute diagnostic"
+  },
+  "health": {
+    "service": "health",
+    "url": "http://127.0.0.1:5001/health",
+    "description": "Simulated service health check"
+  }
+}
